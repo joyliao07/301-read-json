@@ -23,5 +23,10 @@
       "name": "Demi",
       "image_url": "http://demi.dog/4.jpg",
       "hobbies": "Sitting in the aisles hoping for someone to pet me!"
+    },
+    {
+      "name": "Puffy",
+      "image_url": "./img/puffy.jpg",
+      "hobbies": "Enjoying sunshine in the truck."
     }
   ]
